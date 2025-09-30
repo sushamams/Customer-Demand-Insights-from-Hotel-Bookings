@@ -16,7 +16,7 @@ The goal is to perform **Exploratory Data Analysis (EDA)** to identify key trend
 ## 🛠️ Tools & Libraries
 - **Programming Language:** Python  
 - **Notebook:** Jupyter Notebook  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Libraries:** Pandas(data manipulation & analysis), NumPy(fast numerical calculations), Matplotlib(data visualization (graphs & charts)), Seaborn(statistical plots)  
 
 ---
 
